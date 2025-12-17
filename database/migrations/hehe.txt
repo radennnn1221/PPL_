@@ -1,0 +1,4 @@
+Sudah bisa kaa
+
+untuk jalaninnya pake cukup buka terminal ketik
+    "php artisan serve" 
